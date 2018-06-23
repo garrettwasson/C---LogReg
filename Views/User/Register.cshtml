@@ -1,0 +1,12 @@
+@model LogReg.Models.UserReg
+
+
+<h1>Register</h1>
+<form asp-controller="User" asp-action="Register" method="post">
+    <input asp-for="FirstName" placeholder="First Name">
+    <input asp-for="LastName" placeholder="Last Name">
+    <input asp-for="Email" placeholder="Email">
+    <input asp-for="Password" placeholder="Password">
+    <input asp-for="ConfirmPassword" placeholder="Confirm Password">
+    <input type="submit" value="Register">
+</form>

@@ -1,0 +1,11 @@
+C:\Users\Garre\Desktop\CODING DOJO WORK\C#\Work\LogReg\bin\Debug\netcoreapp2.0\LogReg.deps.json
+C:\Users\Garre\Desktop\CODING DOJO WORK\C#\Work\LogReg\bin\Debug\netcoreapp2.0\LogReg.runtimeconfig.json
+C:\Users\Garre\Desktop\CODING DOJO WORK\C#\Work\LogReg\bin\Debug\netcoreapp2.0\LogReg.runtimeconfig.dev.json
+C:\Users\Garre\Desktop\CODING DOJO WORK\C#\Work\LogReg\bin\Debug\netcoreapp2.0\LogReg.dll
+C:\Users\Garre\Desktop\CODING DOJO WORK\C#\Work\LogReg\bin\Debug\netcoreapp2.0\LogReg.pdb
+C:\Users\Garre\Desktop\CODING DOJO WORK\C#\Work\LogReg\obj\Debug\netcoreapp2.0\LogReg.csprojResolveAssemblyReference.cache
+C:\Users\Garre\Desktop\CODING DOJO WORK\C#\Work\LogReg\obj\Debug\netcoreapp2.0\LogReg.csproj.CoreCompileInputs.cache
+C:\Users\Garre\Desktop\CODING DOJO WORK\C#\Work\LogReg\obj\Debug\netcoreapp2.0\LogReg.AssemblyInfoInputs.cache
+C:\Users\Garre\Desktop\CODING DOJO WORK\C#\Work\LogReg\obj\Debug\netcoreapp2.0\LogReg.AssemblyInfo.cs
+C:\Users\Garre\Desktop\CODING DOJO WORK\C#\Work\LogReg\obj\Debug\netcoreapp2.0\LogReg.dll
+C:\Users\Garre\Desktop\CODING DOJO WORK\C#\Work\LogReg\obj\Debug\netcoreapp2.0\LogReg.pdb

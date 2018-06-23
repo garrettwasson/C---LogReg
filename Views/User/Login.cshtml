@@ -1,0 +1,10 @@
+@model LogReg.Models.UserLog
+
+
+<h1>Login</h1>
+<form asp-controller="User" asp-action="Login" method="post">
+    <input asp-for="LoginEmail" placeholder="Email">
+    <input asp-for="LoginPassword" placeholder="Password">
+    <input type="submit" value="Login">
+</form>
+
